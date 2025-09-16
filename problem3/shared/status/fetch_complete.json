@@ -1,0 +1,26 @@
+{
+  "timestamp": "2025-09-16T06:22:31.630797+00:00",
+  "urls_processed": 3,
+  "successful": 2,
+  "failed": 1,
+  "results": [
+    {
+      "url": "https://www.example.com",
+      "file": "page_1.html",
+      "size": 1256,
+      "status": "success"
+    },
+    {
+      "url": "https://www.wikipedia.org",
+      "file": null,
+      "error": "HTTP Error 403: Forbidden",
+      "status": "failed"
+    },
+    {
+      "url": "https://httpbin.org/html",
+      "file": "page_3.html",
+      "size": 3741,
+      "status": "success"
+    }
+  ]
+}

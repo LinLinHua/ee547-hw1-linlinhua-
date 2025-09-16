@@ -1,0 +1,15 @@
+{
+  "source_file": "page_1.html",
+  "text": "Example Domain Example Domain This domain is for use in illustrative examples in documents. You may use this domain in literature without prior coordination or asking for permission. More information...",
+  "statistics": {
+    "word_count": 30,
+    "sentence_count": 3,
+    "paragraph_count": 2,
+    "avg_word_length": 5.6
+  },
+  "links": [
+    "https://www.iana.org/domains/example"
+  ],
+  "images": [],
+  "processed_at": "2025-09-16T06:22:32.234776Z"
+}

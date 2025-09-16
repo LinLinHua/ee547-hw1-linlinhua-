@@ -1,0 +1,74 @@
+[
+  {
+    "url": "http://httpbin.org/status/200",
+    "status_code": 200,
+    "response_time_ms": 242.0489030000681,
+    "content_length": 0,
+    "word_count": 0,
+    "timestamp": "2025-09-16T04:16:56.375810Z",
+    "error": null
+  },
+  {
+    "url": "http://httpbin.org/delay/2",
+    "status_code": 200,
+    "response_time_ms": 3394.4101800000226,
+    "content_length": 353,
+    "word_count": null,
+    "timestamp": "2025-09-16T04:16:56.618444Z",
+    "error": null
+  },
+  {
+    "url": "http://httpbin.org/status/404",
+    "status_code": 404,
+    "response_time_ms": 900.0691559999723,
+    "content_length": 0,
+    "word_count": 0,
+    "timestamp": "2025-09-16T04:17:00.012905Z",
+    "error": "HTTPError 404: NOT FOUND"
+  },
+  {
+    "url": "http://httpbin.org/json",
+    "status_code": 200,
+    "response_time_ms": 207.15806800012615,
+    "content_length": 429,
+    "word_count": null,
+    "timestamp": "2025-09-16T04:17:00.913133Z",
+    "error": null
+  },
+  {
+    "url": "http://httpbin.org/html",
+    "status_code": 200,
+    "response_time_ms": 888.5576679999758,
+    "content_length": 3741,
+    "word_count": 638,
+    "timestamp": "2025-09-16T04:17:01.120324Z",
+    "error": null
+  },
+  {
+    "url": "https://www.example.com",
+    "status_code": 200,
+    "response_time_ms": 187.74542699998165,
+    "content_length": 1256,
+    "word_count": 158,
+    "timestamp": "2025-09-16T04:17:02.009597Z",
+    "error": null
+  },
+  {
+    "url": "http://httpbin.org/status/500",
+    "status_code": 500,
+    "response_time_ms": 260.09836799994446,
+    "content_length": 0,
+    "word_count": 0,
+    "timestamp": "2025-09-16T04:17:02.198131Z",
+    "error": "HTTPError 500: INTERNAL SERVER ERROR"
+  },
+  {
+    "url": "http://invalid.url.that.does.not.exist.com",
+    "status_code": null,
+    "response_time_ms": 130.0335369999175,
+    "content_length": 0,
+    "word_count": null,
+    "timestamp": "2025-09-16T04:17:02.458377Z",
+    "error": "URLError: [Errno -2] Name or service not known"
+  }
+]

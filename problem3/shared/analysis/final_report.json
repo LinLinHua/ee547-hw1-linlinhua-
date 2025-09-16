@@ -1,0 +1,1324 @@
+{
+  "processing_timestamp": "2025-09-16T06:20:44.398411Z",
+  "documents_processed": 2,
+  "total_words": 654,
+  "unique_words": 359,
+  "top_100_words": [
+    {
+      "word": "the",
+      "count": 35,
+      "frequency": 0.053516819571865444
+    },
+    {
+      "word": "and",
+      "count": 28,
+      "frequency": 0.04281345565749235
+    },
+    {
+      "word": "of",
+      "count": 22,
+      "frequency": 0.03363914373088685
+    },
+    {
+      "word": "to",
+      "count": 17,
+      "frequency": 0.02599388379204893
+    },
+    {
+      "word": "a",
+      "count": 15,
+      "frequency": 0.022935779816513763
+    },
+    {
+      "word": "in",
+      "count": 15,
+      "frequency": 0.022935779816513763
+    },
+    {
+      "word": "his",
+      "count": 14,
+      "frequency": 0.021406727828746176
+    },
+    {
+      "word": "s",
+      "count": 10,
+      "frequency": 0.01529051987767584
+    },
+    {
+      "word": "had",
+      "count": 8,
+      "frequency": 0.012232415902140673
+    },
+    {
+      "word": "this",
+      "count": 7,
+      "frequency": 0.010703363914373088
+    },
+    {
+      "word": "blacksmith",
+      "count": 6,
+      "frequency": 0.009174311926605505
+    },
+    {
+      "word": "by",
+      "count": 6,
+      "frequency": 0.009174311926605505
+    },
+    {
+      "word": "for",
+      "count": 6,
+      "frequency": 0.009174311926605505
+    },
+    {
+      "word": "he",
+      "count": 6,
+      "frequency": 0.009174311926605505
+    },
+    {
+      "word": "old",
+      "count": 6,
+      "frequency": 0.009174311926605505
+    },
+    {
+      "word": "was",
+      "count": 6,
+      "frequency": 0.009174311926605505
+    },
+    {
+      "word": "but",
+      "count": 5,
+      "frequency": 0.00764525993883792
+    },
+    {
+      "word": "it",
+      "count": 5,
+      "frequency": 0.00764525993883792
+    },
+    {
+      "word": "that",
+      "count": 5,
+      "frequency": 0.00764525993883792
+    },
+    {
+      "word": "an",
+      "count": 4,
+      "frequency": 0.0061162079510703364
+    },
+    {
+      "word": "be",
+      "count": 4,
+      "frequency": 0.0061162079510703364
+    },
+    {
+      "word": "came",
+      "count": 4,
+      "frequency": 0.0061162079510703364
+    },
+    {
+      "word": "domain",
+      "count": 4,
+      "frequency": 0.0061162079510703364
+    },
+    {
+      "word": "her",
+      "count": 4,
+      "frequency": 0.0061162079510703364
+    },
+    {
+      "word": "no",
+      "count": 4,
+      "frequency": 0.0061162079510703364
+    },
+    {
+      "word": "not",
+      "count": 4,
+      "frequency": 0.0061162079510703364
+    },
+    {
+      "word": "now",
+      "count": 4,
+      "frequency": 0.0061162079510703364
+    },
+    {
+      "word": "one",
+      "count": 4,
+      "frequency": 0.0061162079510703364
+    },
+    {
+      "word": "so",
+      "count": 4,
+      "frequency": 0.0061162079510703364
+    },
+    {
+      "word": "with",
+      "count": 4,
+      "frequency": 0.0061162079510703364
+    },
+    {
+      "word": "all",
+      "count": 3,
+      "frequency": 0.0045871559633027525
+    },
+    {
+      "word": "as",
+      "count": 3,
+      "frequency": 0.0045871559633027525
+    },
+    {
+      "word": "at",
+      "count": 3,
+      "frequency": 0.0045871559633027525
+    },
+    {
+      "word": "every",
+      "count": 3,
+      "frequency": 0.0045871559633027525
+    },
+    {
+      "word": "hammer",
+      "count": 3,
+      "frequency": 0.0045871559633027525
+    },
+    {
+      "word": "him",
+      "count": 3,
+      "frequency": 0.0045871559633027525
+    },
+    {
+      "word": "man",
+      "count": 3,
+      "frequency": 0.0045871559633027525
+    },
+    {
+      "word": "most",
+      "count": 3,
+      "frequency": 0.0045871559633027525
+    },
+    {
+      "word": "on",
+      "count": 3,
+      "frequency": 0.0045871559633027525
+    },
+    {
+      "word": "or",
+      "count": 3,
+      "frequency": 0.0045871559633027525
+    },
+    {
+      "word": "their",
+      "count": 3,
+      "frequency": 0.0045871559633027525
+    },
+    {
+      "word": "them",
+      "count": 3,
+      "frequency": 0.0045871559633027525
+    },
+    {
+      "word": "young",
+      "count": 3,
+      "frequency": 0.0045871559633027525
+    },
+    {
+      "word": "after",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "beating",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "boat",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "burglar",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "did",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "do",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "example",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "further",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "grief",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "heart",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "heavy",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "himself",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "home",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "into",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "life",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "loving",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "oh",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "out",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "over",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "part",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "patient",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "ruin",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "still",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "stout",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "thou",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "toiled",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "up",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "upon",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "use",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "were",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "wife",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "woe",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "yet",
+      "count": 2,
+      "frequency": 0.0030581039755351682
+    },
+    {
+      "word": "act",
+      "count": 1,
+      "frequency": 0.0015290519877675841
+    },
+    {
+      "word": "active",
+      "count": 1,
+      "frequency": 0.0015290519877675841
+    },
+    {
+      "word": "acts",
+      "count": 1,
+      "frequency": 0.0015290519877675841
+    },
+    {
+      "word": "again",
+      "count": 1,
+      "frequency": 0.0015290519877675841
+    },
+    {
+      "word": "age",
+      "count": 1,
+      "frequency": 0.0015290519877675841
+    },
+    {
+      "word": "ahab",
+      "count": 1,
+      "frequency": 0.0015290519877675841
+    },
+    {
+      "word": "almost",
+      "count": 1,
+      "frequency": 0.0015290519877675841
+    },
+    {
+      "word": "altering",
+      "count": 1,
+      "frequency": 0.0015290519877675841
+    },
+    {
+      "word": "always",
+      "count": 1,
+      "frequency": 0.0015290519877675841
+    },
+    {
+      "word": "anticipated",
+      "count": 1,
+      "frequency": 0.0015290519877675841
+    },
+    {
+      "word": "appearing",
+      "count": 1,
+      "frequency": 0.0015290519877675841
+    },
+    {
+      "word": "arm",
+      "count": 1,
+      "frequency": 0.0015290519877675841
+    },
+    {
+      "word": "armed",
+      "count": 1,
+      "frequency": 0.0015290519877675841
+    },
+    {
+      "word": "artisan",
+      "count": 1,
+      "frequency": 0.0015290519877675841
+    },
+    {
+      "word": "asking",
+      "count": 1,
+      "frequency": 0.0015290519877675841
+    },
+    {
+      "word": "availing",
+      "count": 1,
+      "frequency": 0.0015290519877675841
+    },
+    {
+      "word": "away",
+      "count": 1,
+      "frequency": 0.0015290519877675841
+    },
+    {
+      "word": "back",
+      "count": 1,
+      "frequency": 0.0015290519877675841
+    },
+    {
+      "word": "barn",
+      "count": 1,
+      "frequency": 0.0015290519877675841
+    },
+    {
+      "word": "basement",
+      "count": 1,
+      "frequency": 0.0015290519877675841
+    },
+    {
+      "word": "been",
+      "count": 1,
+      "frequency": 0.0015290519877675841
+    },
+    {
+      "word": "begrimed",
+      "count": 1,
+      "frequency": 0.0015290519877675841
+    },
+    {
+      "word": "being",
+      "count": 1,
+      "frequency": 0.0015290519877675841
+    },
+    {
+      "word": "belated",
+      "count": 1,
+      "frequency": 0.0015290519877675841
+    }
+  ],
+  "document_similarity": [
+    {
+      "doc1": "page_1.json",
+      "doc2": "page_3.json",
+      "similarity": 0.011142061281337047
+    }
+  ],
+  "top_bigrams": [
+    {
+      "bigram": "of the",
+      "count": 6
+    },
+    {
+      "bigram": "of his",
+      "count": 5
+    },
+    {
+      "bigram": "the blacksmith",
+      "count": 4
+    },
+    {
+      "bigram": "and so",
+      "count": 3
+    },
+    {
+      "bigram": "in a",
+      "count": 3
+    },
+    {
+      "bigram": "old man",
+      "count": 3
+    },
+    {
+      "bigram": "this old",
+      "count": 3
+    },
+    {
+      "bigram": "to the",
+      "count": 3
+    },
+    {
+      "bigram": "a patient",
+      "count": 2
+    },
+    {
+      "bigram": "all of",
+      "count": 2
+    },
+    {
+      "bigram": "and the",
+      "count": 2
+    },
+    {
+      "bigram": "beating of",
+      "count": 2
+    },
+    {
+      "bigram": "blacksmith s",
+      "count": 2
+    },
+    {
+      "bigram": "but with",
+      "count": 2
+    },
+    {
+      "bigram": "by the",
+      "count": 2
+    },
+    {
+      "bigram": "example domain",
+      "count": 2
+    },
+    {
+      "bigram": "had the",
+      "count": 2
+    },
+    {
+      "bigram": "he had",
+      "count": 2
+    },
+    {
+      "bigram": "he toiled",
+      "count": 2
+    },
+    {
+      "bigram": "heavy beating",
+      "count": 2
+    },
+    {
+      "bigram": "into his",
+      "count": 2
+    },
+    {
+      "bigram": "it was",
+      "count": 2
+    },
+    {
+      "bigram": "old blacksmith",
+      "count": 2
+    },
+    {
+      "bigram": "so it",
+      "count": 2
+    },
+    {
+      "bigram": "the heavy",
+      "count": 2
+    },
+    {
+      "bigram": "the young",
+      "count": 2
+    },
+    {
+      "bigram": "this domain",
+      "count": 2
+    },
+    {
+      "bigram": "to be",
+      "count": 2
+    },
+    {
+      "bigram": "to do",
+      "count": 2
+    },
+    {
+      "bigram": "was the",
+      "count": 2
+    },
+    {
+      "bigram": "a care",
+      "count": 1
+    },
+    {
+      "bigram": "a certain",
+      "count": 1
+    },
+    {
+      "bigram": "a cheerful",
+      "count": 1
+    },
+    {
+      "bigram": "a delicious",
+      "count": 1
+    },
+    {
+      "bigram": "a desperate",
+      "count": 1
+    },
+    {
+      "bigram": "a grove",
+      "count": 1
+    },
+    {
+      "bigram": "a house",
+      "count": 1
+    },
+    {
+      "bigram": "a leaning",
+      "count": 1
+    },
+    {
+      "bigram": "a most",
+      "count": 1
+    },
+    {
+      "bigram": "a peculiar",
+      "count": 1
+    },
+    {
+      "bigram": "a separate",
+      "count": 1
+    },
+    {
+      "bigram": "a truly",
+      "count": 1
+    },
+    {
+      "bigram": "a youthful",
+      "count": 1
+    },
+    {
+      "bigram": "act of",
+      "count": 1
+    },
+    {
+      "bigram": "active pursuits",
+      "count": 1
+    },
+    {
+      "bigram": "acts of",
+      "count": 1
+    },
+    {
+      "bigram": "after concluding",
+      "count": 1
+    },
+    {
+      "bigram": "after years",
+      "count": 1
+    },
+    {
+      "bigram": "again after",
+      "count": 1
+    },
+    {
+      "bigram": "age of",
+      "count": 1
+    },
+    {
+      "bigram": "ahab s",
+      "count": 1
+    },
+    {
+      "bigram": "all waiting",
+      "count": 1
+    },
+    {
+      "bigram": "almost incessantly",
+      "count": 1
+    },
+    {
+      "bigram": "altering or",
+      "count": 1
+    },
+    {
+      "bigram": "always had",
+      "count": 1
+    },
+    {
+      "bigram": "an artisan",
+      "count": 1
+    },
+    {
+      "bigram": "an eager",
+      "count": 1
+    },
+    {
+      "bigram": "an early",
+      "count": 1
+    },
+    {
+      "bigram": "an old",
+      "count": 1
+    },
+    {
+      "bigram": "and all",
+      "count": 1
+    },
+    {
+      "bigram": "and as",
+      "count": 1
+    },
+    {
+      "bigram": "and boat",
+      "count": 1
+    },
+    {
+      "bigram": "and bowsmen",
+      "count": 1
+    },
+    {
+      "bigram": "and darker",
+      "count": 1
+    },
+    {
+      "bigram": "and economic",
+      "count": 1
+    },
+    {
+      "bigram": "and further",
+      "count": 1
+    },
+    {
+      "bigram": "and garden",
+      "count": 1
+    },
+    {
+      "bigram": "and harpooneers",
+      "count": 1
+    },
+    {
+      "bigram": "and her",
+      "count": 1
+    },
+    {
+      "bigram": "and in",
+      "count": 1
+    },
+    {
+      "bigram": "and jealously",
+      "count": 1
+    },
+    {
+      "bigram": "and lances",
+      "count": 1
+    },
+    {
+      "bigram": "and loving",
+      "count": 1
+    },
+    {
+      "bigram": "and not",
+      "count": 1
+    },
+    {
+      "bigram": "and robbed",
+      "count": 1
+    },
+    {
+      "bigram": "and shrivelled",
+      "count": 1
+    },
+    {
+      "bigram": "and solemn",
+      "count": 1
+    },
+    {
+      "bigram": "and sought",
+      "count": 1
+    },
+    {
+      "bigram": "and three",
+      "count": 1
+    },
+    {
+      "bigram": "and to",
+      "count": 1
+    },
+    {
+      "bigram": "and walls",
+      "count": 1
+    },
+    {
+      "bigram": "and with",
+      "count": 1
+    },
+    {
+      "bigram": "anticipated perth",
+      "count": 1
+    },
+    {
+      "bigram": "appearing yawing",
+      "count": 1
+    },
+    {
+      "bigram": "arm no",
+      "count": 1
+    },
+    {
+      "bigram": "armed old",
+      "count": 1
+    },
+    {
+      "bigram": "artisan of",
+      "count": 1
+    },
+    {
+      "bigram": "as he",
+      "count": 1
+    },
+    {
+      "bigram": "as if",
+      "count": 1
+    },
+    {
+      "bigram": "as yet",
+      "count": 1
+    },
+    {
+      "bigram": "asking for",
+      "count": 1
+    },
+    {
+      "bigram": "at an",
+      "count": 1
+    },
+    {
+      "bigram": "at last",
+      "count": 1
+    },
+    {
+      "bigram": "at the",
+      "count": 1
+    },
+    {
+      "bigram": "availing himself",
+      "count": 1
+    },
+    {
+      "bigram": "away as",
+      "count": 1
+    },
+    {
+      "bigram": "back he",
+      "count": 1
+    },
+    {
+      "bigram": "barn the",
+      "count": 1
+    },
+    {
+      "bigram": "basement of",
+      "count": 1
+    },
+    {
+      "bigram": "be anticipated",
+      "count": 1
+    }
+  ],
+  "top_trigrams": [
+    {
+      "trigram": "and so it",
+      "count": 2
+    },
+    {
+      "trigram": "beating of his",
+      "count": 2
+    },
+    {
+      "trigram": "had the young",
+      "count": 2
+    },
+    {
+      "trigram": "heavy beating of",
+      "count": 2
+    },
+    {
+      "trigram": "the blacksmith s",
+      "count": 2
+    },
+    {
+      "trigram": "the heavy beating",
+      "count": 2
+    },
+    {
+      "trigram": "this old man",
+      "count": 2
+    },
+    {
+      "trigram": "a care killing",
+      "count": 1
+    },
+    {
+      "trigram": "a certain slight",
+      "count": 1
+    },
+    {
+      "trigram": "a cheerful looking",
+      "count": 1
+    },
+    {
+      "trigram": "a delicious grief",
+      "count": 1
+    },
+    {
+      "trigram": "a desperate burglar",
+      "count": 1
+    },
+    {
+      "trigram": "a grove but",
+      "count": 1
+    },
+    {
+      "trigram": "a house and",
+      "count": 1
+    },
+    {
+      "trigram": "a leaning dilapidated",
+      "count": 1
+    },
+    {
+      "trigram": "a most cunning",
+      "count": 1
+    },
+    {
+      "trigram": "a patient arm",
+      "count": 1
+    },
+    {
+      "trigram": "a patient hammer",
+      "count": 1
+    },
+    {
+      "trigram": "a peculiar walk",
+      "count": 1
+    },
+    {
+      "trigram": "a separate entrance",
+      "count": 1
+    },
+    {
+      "trigram": "a truly venerable",
+      "count": 1
+    },
+    {
+      "trigram": "a youthful daughter",
+      "count": 1
+    },
+    {
+      "trigram": "act of the",
+      "count": 1
+    },
+    {
+      "trigram": "active pursuits shortly",
+      "count": 1
+    },
+    {
+      "trigram": "acts of the",
+      "count": 1
+    },
+    {
+      "trigram": "after concluding his",
+      "count": 1
+    },
+    {
+      "trigram": "after years and",
+      "count": 1
+    },
+    {
+      "trigram": "again after concluding",
+      "count": 1
+    },
+    {
+      "trigram": "age of nearly",
+      "count": 1
+    },
+    {
+      "trigram": "ahab s leg",
+      "count": 1
+    },
+    {
+      "trigram": "all of everything",
+      "count": 1
+    },
+    {
+      "trigram": "all of them",
+      "count": 1
+    },
+    {
+      "trigram": "all waiting to",
+      "count": 1
+    },
+    {
+      "trigram": "almost incessantly invoked",
+      "count": 1
+    },
+    {
+      "trigram": "altering or repairing",
+      "count": 1
+    },
+    {
+      "trigram": "always had the",
+      "count": 1
+    },
+    {
+      "trigram": "an artisan of",
+      "count": 1
+    },
+    {
+      "trigram": "an eager circle",
+      "count": 1
+    },
+    {
+      "trigram": "an early period",
+      "count": 1
+    },
+    {
+      "trigram": "an old man",
+      "count": 1
+    },
+    {
+      "trigram": "and all of",
+      "count": 1
+    },
+    {
+      "trigram": "and as yet",
+      "count": 1
+    },
+    {
+      "trigram": "and boat furniture",
+      "count": 1
+    },
+    {
+      "trigram": "and bowsmen to",
+      "count": 1
+    },
+    {
+      "trigram": "and darker yet",
+      "count": 1
+    },
+    {
+      "trigram": "and economic reasons",
+      "count": 1
+    },
+    {
+      "trigram": "and further concealed",
+      "count": 1
+    },
+    {
+      "trigram": "and garden embraced",
+      "count": 1
+    },
+    {
+      "trigram": "and harpooneers and",
+      "count": 1
+    },
+    {
+      "trigram": "and her orphans",
+      "count": 1
+    },
+    {
+      "trigram": "and in preparation",
+      "count": 1
+    },
+    {
+      "trigram": "and jealously watching",
+      "count": 1
+    },
+    {
+      "trigram": "and lances and",
+      "count": 1
+    },
+    {
+      "trigram": "and loving healthy",
+      "count": 1
+    },
+    {
+      "trigram": "and not innocently",
+      "count": 1
+    },
+    {
+      "trigram": "and robbed them",
+      "count": 1
+    },
+    {
+      "trigram": "and shrivelled up",
+      "count": 1
+    },
+    {
+      "trigram": "and so to",
+      "count": 1
+    },
+    {
+      "trigram": "and solemn bowing",
+      "count": 1
+    },
+    {
+      "trigram": "and sought refuge",
+      "count": 1
+    },
+    {
+      "trigram": "and the heavy",
+      "count": 1
+    },
+    {
+      "trigram": "and the one",
+      "count": 1
+    },
+    {
+      "trigram": "and three blithe",
+      "count": 1
+    },
+    {
+      "trigram": "and to the",
+      "count": 1
+    },
+    {
+      "trigram": "and walls came",
+      "count": 1
+    },
+    {
+      "trigram": "and with plenty",
+      "count": 1
+    },
+    {
+      "trigram": "anticipated perth the",
+      "count": 1
+    },
+    {
+      "trigram": "appearing yawing in",
+      "count": 1
+    },
+    {
+      "trigram": "arm no murmur",
+      "count": 1
+    },
+    {
+      "trigram": "armed old husband",
+      "count": 1
+    },
+    {
+      "trigram": "artisan of famed",
+      "count": 1
+    },
+    {
+      "trigram": "as he toiled",
+      "count": 1
+    },
+    {
+      "trigram": "as if toil",
+      "count": 1
+    },
+    {
+      "trigram": "as yet uncatastrophied",
+      "count": 1
+    },
+    {
+      "trigram": "asking for permission",
+      "count": 1
+    },
+    {
+      "trigram": "at an early",
+      "count": 1
+    },
+    {
+      "trigram": "at last came",
+      "count": 1
+    },
+    {
+      "trigram": "at the age",
+      "count": 1
+    },
+    {
+      "trigram": "availing himself of",
+      "count": 1
+    },
+    {
+      "trigram": "away as if",
+      "count": 1
+    },
+    {
+      "trigram": "back he toiled",
+      "count": 1
+    },
+    {
+      "trigram": "barn the issue",
+      "count": 1
+    },
+    {
+      "trigram": "basement of his",
+      "count": 1
+    },
+    {
+      "trigram": "be anticipated perth",
+      "count": 1
+    },
+    {
+      "trigram": "be served holding",
+      "count": 1
+    },
+    {
+      "trigram": "be surrounded by",
+      "count": 1
+    },
+    {
+      "trigram": "be timely hadst",
+      "count": 1
+    },
+    {
+      "trigram": "been an artisan",
+      "count": 1
+    },
+    {
+      "trigram": "begrimed blistered old",
+      "count": 1
+    },
+    {
+      "trigram": "being now almost",
+      "count": 1
+    },
+    {
+      "trigram": "belated and not",
+      "count": 1
+    },
+    {
+      "trigram": "between two country",
+      "count": 1
+    },
+    {
+      "trigram": "bitter winter s",
+      "count": 1
+    },
+    {
+      "trigram": "blacksmith had not",
+      "count": 1
+    },
+    {
+      "trigram": "blacksmith half stupidly",
+      "count": 1
+    },
+    {
+      "trigram": "blacksmith himself did",
+      "count": 1
+    },
+    {
+      "trigram": "blacksmith s infants",
+      "count": 1
+    },
+    {
+      "trigram": "blacksmith s shop",
+      "count": 1
+    },
+    {
+      "trigram": "blacksmith to thyself",
+      "count": 1
+    },
+    {
+      "trigram": "blistered old blacksmith",
+      "count": 1
+    }
+  ],
+  "readability": {
+    "avg_sentence_length": 26.16,
+    "avg_word_length": 4.629969418960244,
+    "complexity_score": 11.005453193758083
+  }
+}

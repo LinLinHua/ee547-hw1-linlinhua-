@@ -1,0 +1,14 @@
+{
+  "total_urls": 8,
+  "successful_requests": 5,
+  "failed_requests": 3,
+  "average_response_time_ms": 776.2651633750011,
+  "total_bytes_downloaded": 5779,
+  "status_code_distribution": {
+    "200": 5,
+    "404": 1,
+    "500": 1
+  },
+  "processing_start": "2025-09-16T04:16:56.375793Z",
+  "processing_end": "2025-09-16T04:17:02.588473Z"
+}
