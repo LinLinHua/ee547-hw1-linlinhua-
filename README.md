@@ -13,10 +13,9 @@
     ##create dirs and enter urls.txt
     1. mkdir -p shared/{input,raw,processed,status,analysis}
     2. cp test_urls.txt shared/input/urls.txt
-  
     ##remove the old containers
-    3. (Optional) docker compose down #remove the old containers
-    4. docker-compose build
+    4. (Optional) docker compose down #remove the old containers
+    5. docker-compose build
 
 
 
